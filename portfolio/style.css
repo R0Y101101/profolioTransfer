@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+.header{
+    background-color: lightblue;
+    display:flex;
+    justify-content: space-between
+}
+.grid{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: flex-end;    
+}
